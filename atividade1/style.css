@@ -196,19 +196,6 @@ main p{
 .iconphp .icon{
     background-color: #8993C1;
 }
-.artigo{
-    display: grid;
-    grid-template-columns: 1fr;
-    grid-template-rows: 0.4fr 1fr 1fr;
-    grid-template-areas: "title" "icones" "texto";
-}
-.artigo > h2{
-    grid-area: title;
-}
-.artigo > div{
-    grid-area: icones;
-}
-.artigo > p{
-    font-size: 9.0rem;
-    grid-area: texto;
+article{
+    
 }
