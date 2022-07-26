@@ -43,12 +43,13 @@
                 </p>
             </section>
         </main>
-        <article>
+        <article class="artigo">
             <h2>Utilizando a Tecnologia de Versionamento Mais utilizada no mercado</h2>
             <div>
                 <p class="icon"><i class="fa-brands fa-git-alt"></i></p>
                 <p class="icon"><i class="fa-brands fa-github"></i></p>
             </div>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos, molestiae eaque. Quaerat odit ad possimus cum itaque adipisci dolor? Laudantium dolorum non nisi distinctio libero magnam enim consectetur aspernatur debitis.</p>
         </article>
         <footer>
             Guilherme Casagrande - Desenvolvedor WEB - <?=date('Y')?>
