@@ -196,3 +196,8 @@ main p{
 .iconphp .icon{
     background-color: #8993C1;
 }
+article{
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 0.4fr 1fr 1fr;
+}

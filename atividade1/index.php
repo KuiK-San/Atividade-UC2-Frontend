@@ -43,8 +43,12 @@
                 </p>
             </section>
         </main>
-        <article class="secao">
-            a
+        <article>
+            <h2>Utilizando a Tecnologia de Versionamento Mais utilizada no mercado</h2>
+            <div>
+                <p class="icon"><i class="fa-brands fa-git-alt"></i></p>
+                <p class="icon"><i class="fa-brands fa-github"></i></p>
+            </div>
         </article>
         <footer>
             Guilherme Casagrande - Desenvolvedor WEB - <?=date('Y')?>
