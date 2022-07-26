@@ -9,6 +9,7 @@ body, html{
     margin: 0;
     padding: 0;
     font-family: 'Montserrat', sans-serif;
+    background-color: #0080ff;
 }
 .container{
     width: 100%;
@@ -200,15 +201,14 @@ main p{
     grid-template-columns: 1fr;
     grid-template-rows: 0.4fr 1fr 1fr;
     grid-template-areas: "title" "icones" "texto";
-    justify-content: center;
 }
-.artigo h2{
+.artigo > h2{
     grid-area: title;
 }
-.artigo div{
+.artigo > div{
     grid-area: icones;
 }
-.artigo p{
+.artigo > p{
     font-size: 9.0rem;
     grid-area: texto;
 }
