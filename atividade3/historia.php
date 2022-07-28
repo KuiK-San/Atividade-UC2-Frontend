@@ -4,57 +4,33 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="historia.css">
     <script src="https://kit.fontawesome.com/61b248fb6c.js" crossorigin="anonymous"></script>
     <title>Home</title>
 </head>
 <body>
-    <div class="container">
-        <nav>
-            <a href="index.php"><span>Home</span></a>
-            <a href="historia.php"><span>Hitória</span></a>
-            <a href="#">Agende uma Reunião</a>
-        </nav>
-        <header>
-            <h1>Seja Bem-vindo</h1>
-            <h2>Dê uma olhada em nosso site</h2>
-        </header>
-        <main>
-            <h1>Linguagens Utilizadas</h1>
-            <section class="iconhtm">
-                <p class="icon"><i class="fa-brands fa-html5"></i></p>
-                <h1>HTML 5</h1>
-                <p>
-                    HTML5 é a linguagem de marcação mais utilizada na criação de sites possibilitando as marcações do conteudo dos sites de forma organizada e semantica, oferecendo uma ótima posição na classificação do google 
-                </p>
-            </section>
-            <section class="iconcss">
-                <p class="icon"><i class="fa-brands fa-css3-alt"></i></p>
-                <h1>CSS3</h1>
-                <p>
-                    CSS3 é a linguagem de marcação que conversa com o HTML e serve para estilizar a pagina da forma que o designer faz no wireframe assinado posteriormente pelo cliente
-                </p>
-            </section>
-            <section class="iconphp">
-                <p class="icon"><i class="fa-brands fa-php"></i></p>
-                <h1>PHP</h1>
-                <p>
-                    PHP é a linguagem de programação que dá interatividade na página e faz o back-end junto a parte de servidor, dados e design do
-                </p>
-            </section>
-        </main>
-        <article class="artigo">
-            <h2>Utilizando a Tecnologia de Versionamento Mais utilizada no mercado</h2>
-            <div>
-                <p class="icon"><i class="fa-brands fa-git-alt"></i></p>
-                <p class="icon"><i class="fa-brands fa-github"></i></p>
-            </div>
-            <p class="texto">Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos, molestiae eaque. Quaerat odit ad possimus cum itaque adipisci dolor? Laudantium dolorum non nisi distinctio libero magnam enim consectetur aspernatur debitis.</p>
-        </article>
-        <footer>
-            Guilherme Casagrande - Desenvolvedor WEB - <?=date('Y')?>
-        </footer>
-    </div>
+
+    <nav>
+        <a href="index.php"><span>Home</span></a>
+        <a href="historia.php"><span>Hitória</span></a>
+        <a href="#">Agende uma Reunião</a>
+    </nav>
+    <main>
+        <section class="comeco">
+            <img src="./img/pessoa.jpg" alt="">
+            <h1>Como tudo começou</h1>
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta voluptates, error nisi odit eos expedita totam inventore sapiente distinctio autem veniam quod fugit quos dignissimos blanditiis non nostrum optio pariatur! Lorem ipsum dolor sit amet consectetur adipisicing elit. Omnis debitis numquam provident! Quos qui vero aperiam dolor vitae. Tempora excepturi architecto dolore consequatur, exercitationem voluptates sint molestiae numquam fugiat in.
+            Quas, adipisci? Quia earum necessitatibus et! Pariatur porro sunt quam explicabo voluptas repudiandae quibusdam! Totam quaerat corporis accusamus provident distinctio commodi odit quas, error tempore, quae repellendus necessitatibus ipsam unde?</p>
+        </section>
+        <section class="meio">
+            <img src="" alt="">
+        </section>
+
+    </main>
+    <footer>
+        Guilherme Casagrande - Desenvolvedor WEB - <?=date('Y')?>
+    </footer>
+
 
 </body>
 </html>
