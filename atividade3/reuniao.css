@@ -53,11 +53,35 @@ main{
 
 }
 .botoes{
-    background-color: aqua;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+
 
 }
+.botoes > a{
+    text-decoration: none;
+    display: block;
+    background-color: black;
+    color: white;
+    padding: 10%;
+    font-size: 1.6rem;
+    width: 100%;
+}
 .agenda{
-    background-color: rgb(195, 0, 255);
+    background-color: white;
+}
+.agenda > .default h1{
+    text-align: center;
+    font-size: 4rem;
+    height: 100%;
+/*     background-color: blue; */
+}
+.agenda > .online{
+    text-align: center;
 }
 footer{
     margin-top: 0;
