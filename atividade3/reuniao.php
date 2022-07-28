@@ -13,6 +13,14 @@
         <a href="historia.php"><span>Hitória</span></a>
         <a href="reuniao.php">Agende uma Reunião</a>
     </nav>
+    <main>
+        <section class="botoes">
+
+        </section>
+        <section class="agenda">
+            
+        </section>
+    </main>
     <footer>
         Guilherme Casagrande - Desenvolvedor WEB - <?=date('Y')?>
     </footer>
