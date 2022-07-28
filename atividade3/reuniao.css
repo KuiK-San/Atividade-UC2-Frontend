@@ -45,10 +45,12 @@ nav > a > span{
     margin-bottom: 13.3%;
 }
 main{
+    margin-top: 7%;
     height: 100%;
     width: 100%;
     display: grid;
     grid-template-columns: 0.5fr 1.5fr;
+
 }
 .botoes{
     background-color: aqua;

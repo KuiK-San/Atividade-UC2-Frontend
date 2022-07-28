@@ -11,14 +11,17 @@
     <nav>
         <a href="index.php"><span>Home</span></a>
         <a href="historia.php"><span>Hitória</span></a>
-        <a href="reuniao.php">Agende uma Reunião</a>
+        <a href="reuniao.php?dir=arq&file=default.php">Agende uma Reunião</a>
     </nav>
     <main>
         <section class="botoes">
-
+            <a href="reuniao.php?dir=arq&file=online.php">Reunião Online</a>
+            <a href="reuniao.php?dir=arq&file=presencial.php">Reunião presencial</a>
         </section>
         <section class="agenda">
-            
+            <?php
+                include(__DIR__ . "/{$_GET['dir']}/{$_GET['file']}");
+            ?>
         </section>
     </main>
     <footer>
