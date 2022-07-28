@@ -6,14 +6,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="historia.css">
     <script src="https://kit.fontawesome.com/61b248fb6c.js" crossorigin="anonymous"></script>
-    <title>Home</title>
+    <title>História</title>
 </head>
 <body>
 
     <nav>
         <a href="index.php"><span>Home</span></a>
         <a href="historia.php"><span>Hitória</span></a>
-        <a href="#">Agende uma Reunião</a>
+        <a href="reuniao.php">Agende uma Reunião</a>
     </nav>
     <main>
         <section class="comeco">

@@ -13,7 +13,7 @@
         <nav>
             <a href="index.php"><span>Home</span></a>
             <a href="historia.php"><span>Hitória</span></a>
-            <a href="#">Agende uma Reunião</a>
+            <a href="reuniao.php">Agende uma Reunião</a>
         </nav>
         <header>
             <h1>Seja Bem-vindo</h1>
