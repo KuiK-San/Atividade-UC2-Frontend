@@ -1,0 +1,138 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #666666;
+    margin: 0;
+
+}
+.principal{
+    width: 1200px;
+    height: 1000px;
+    margin: auto;
+}
+.menu{
+/*     width: 1200px;
+    height: 50px;
+    background-color: #03166C;
+    text-align: center; */
+    height: 50px;
+    text-align: center;
+    margin: 0;
+    /*  border: 2px solid; */
+    background-color: #03166C;
+    
+}
+.menu a{
+/*     color: #f8f5f5;
+    text-decoration: none;
+    display: inline-block;
+    padding:2px 16px 16px 16px;
+    margin-top: 6px;
+    border-top: 12px solid transparent; */
+    padding: 16px;
+    text-decoration: none;
+    color: white;
+    display: inline-block;
+    height: 50px;
+    border-top: 2px solid transparent;
+}
+.menu a:hover{
+    color: #eef402;
+    border-top: 2px solid #eef402;
+}
+.menu a:hover{
+    color: #eef402;
+    border-top: 2px solid #eef402;
+}
+.banner{
+    width: 1200px;
+    height: 400px;
+}
+.corpo{
+    width: 998px;
+    height: 500px;
+    float: left;
+    border-right: 2px solid #eef402;
+}
+.publi{
+    width: 200px;
+    height: 500px;
+    float: left;
+
+}
+.rodape{
+    width: 1200px;
+    height: 50px;
+    background-color: #03166C;
+    clear: both;
+    color: #fff;
+    text-align: center;
+    font-size: 14px;
+    padding-top: 20px;
+    margin-top: 0;
+}
+.titulo{
+    background-color: #ffee00;
+    color: #333333;
+    font-size: 17px;
+    text-align: center;
+    margin: 0;
+    padding: 15px;
+    margin-bottom: 5px;
+}
+.cont1{
+    width: 998px;
+    height: 248px;
+    border-bottom: 2px solid blue;
+}
+.cont2{
+    width: 498px;
+    height: 250px;
+    border-right: 2px solid blue;
+    float: left;
+}
+.cont3{
+    width: 498px;
+    height: 250px;
+    float: left;
+}
+.cont1 img{
+    height: 248px;
+    float: left;
+    margin-right: 10px;
+}
+.cont1 h2{
+    background-color: #ffee00;
+    color: #333333;
+    font-size: 17px;
+    margin: 0;
+    padding: 15px;
+}
+.cont1 p{
+    text-align: justify;
+    margin-right: 10px;
+    font-size: 20px;
+
+} 
+.cont1 a{
+    text-decoration: none;
+    font-size: 14px;
+    color: #041653;
+    font-weight: bold;
+}
+.cont2 img{
+    height: 160px;
+    margin: 0;
+    margin-top: 15px;
+}
+.cont3 img{
+    width: 130px;
+
+}
+.cont3 td{
+    text-align: justify;
+    margin-right: 10px;
+    font-size: 20px;
+}
+.cont1 a:hover{
+    color: red;
+}
