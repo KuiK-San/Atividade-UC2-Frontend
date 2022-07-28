@@ -23,7 +23,18 @@
             Quas, adipisci? Quia earum necessitatibus et! Pariatur porro sunt quam explicabo voluptas repudiandae quibusdam! Totam quaerat corporis accusamus provident distinctio commodi odit quas, error tempore, quae repellendus necessitatibus ipsam unde?</p>
         </section>
         <section class="meio">
-            <img src="" alt="">
+            <img src="img/estudo.jpg" alt="">
+            <h1>Tempo de Estudo</h1>
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ullam non sed soluta dolor a tempora officiis illo iusto repellat magni numquam temporibus dolorum corporis assumenda, quaerat quod alias illum quisquam!
+            Ex architecto at eveniet. Porro aut ex autem neque qui accusamus vero sapiente distinctio non iste, excepturi et nisi harum cum vitae possimus a quam commodi in velit? Ratione, minus.
+            Alias distinctio eius quaerat. Molestiae, ullam. Doloribus, eos! Reiciendis maxime, sunt asperiores perspiciatis facilis libero, sint itaque facere fugit aliquam rerum architecto alias dignissimos. Eos reiciendis tempora repellat ad. Officia?</p>
+        </section>
+        <section class="fim">
+            <img src="img/sucesso.jpg" alt="">
+            <h1>Nos Dias Atuais</h1>
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ullam non sed soluta dolor a tempora officiis illo iusto repellat magni numquam temporibus dolorum corporis assumenda, quaerat quod alias illum quisquam!
+            Ex architecto at eveniet. Porro aut ex autem neque qui accusamus vero sapiente distinctio non iste, excepturi et nisi harum cum vitae possimus a quam commodi in velit? Ratione, minus.
+            Alias distinctio eius quaerat. Molestiae, ullam. Doloribus, eos! Reiciendis maxime, sunt asperiores perspiciatis facilis libero, sint itaque facere fugit aliquam rerum architecto alias dignissimos. Eos reiciendis tempora repellat ad. Officia?</p>
         </section>
 
     </main>
