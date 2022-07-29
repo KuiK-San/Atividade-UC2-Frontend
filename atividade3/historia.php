@@ -12,7 +12,7 @@
 
     <nav>
         <a href="index.php"><span>Home</span></a>
-        <a href="historia.php"><span>Hitória</span></a>
+        <a href="historia.php"><span>História</span></a>
         <a href="reuniao.php?dir=arq&file=default.php">Agende uma Reunião</a>
     </nav>
     <main>
