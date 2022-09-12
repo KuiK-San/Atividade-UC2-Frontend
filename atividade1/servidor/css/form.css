@@ -1,0 +1,21 @@
+.formulario{
+    width: 900px;
+    margin: auto;
+    margin-top: 20px;
+
+}
+.campo{
+    width: 100%;
+    padding: 15px;
+    margin: 3px;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+.botao{
+    width: 100%;
+    border: none;
+    padding: 15px;
+    margin: 2px;
+    background-color: #333333;
+    color: #fff;
+}

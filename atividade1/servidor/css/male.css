@@ -1,0 +1,182 @@
+/* body{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #666666;
+    margin: 0;
+
+}
+.principal{
+    width: 1200px;
+    height: 1000px;
+    margin: auto;
+}
+.menu{
+    width: 1200px;
+    height: 50px;
+    background-color: #03166C;
+    text-align: center;
+    height: 50px;
+    text-align: center;
+    margin: 0;
+    border: 2px solid;
+    background-color: #03166C;
+    
+}
+.menu a{
+    color: #f8f5f5;
+    text-decoration: none;
+    display: inline-block;
+    padding:2px 16px 16px 16px;
+    margin-top: 6px;
+    border-top: 12px solid transparent;
+    padding: 16px;
+    text-decoration: none;
+    color: white;
+    display: inline-block;
+    height: 50px;
+    border-top: 2px solid transparent;
+}
+.menu a:hover{
+    color: #eef402;
+    border-top: 2px solid #eef402;
+}
+.banner{
+    width: 1200px;
+    height: 400px;
+}
+.banner img{
+    width: 1200px;
+    height: 400px;
+}
+.rodape{
+    width: 1200px;
+    height: 50px;
+    background-color: #03166C;
+    clear: both;
+    color: #fff;
+    text-align: center;
+    font-size: 14px;
+    padding-top: 20px;
+    margin-top: 0;
+
+} */
+.produtos h2{
+    background-color: #eef402;
+    text-align: center;
+    padding: 15px;
+    margin: 0;
+}
+.masculino h2{
+    border-top: #03166C solid 2px;
+    border-bottom: #03166C solid 2px;
+    font-size: 30px;
+
+}
+.conteudo{
+    height: 510px;
+}
+.conteudo h2{
+    border-bottom: #03166C solid 2px;
+    font-size: 20px;
+}
+.conteudo_img{
+    margin-top: 10px;
+    float: right;
+    margin-right: 5px;
+    margin-left: 5px;   
+
+}
+.conteudo p{
+    text-align: justify;
+    padding-left: 10px;
+    padding-right: 10px;
+    width: 330px ;
+    height: 350px;
+    font-size: 19px
+}
+.conteudo_img img{
+    border: 2px solid;
+    margin-left: 0;
+    margin-right: 0;
+    border-radius: 20px;
+    width: 276px;
+    height: 400px;
+}
+.conteudo a{
+    text-decoration: none;
+    font-size: 14px;
+    color: #041653;
+    font-weight: bold;
+}
+.conteudo a:hover{
+    color: red;
+}
+.navigation{
+    height: 50px;
+    text-align: center;
+    margin: 0;
+   /*  border: 2px solid; */
+    background-color: #03166C;
+}
+.navigation a{
+    padding: 16px;
+    text-decoration: none;
+    color: white;
+    display: inline-block;
+    height: 50px;
+    border-top: 2px solid transparent;
+    /* border: 2px solid; */
+}
+.navigation a:hover{
+    color: #eef402;
+    border-top: #eef402 solid 2px;
+}
+.backtotop img{
+    border-radius: 10px;
+    margin: 0;
+    box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.271);
+    margin-top: -40px;
+}
+#tamanhos{
+    height: auto;
+    background-color: #eef402;
+}
+
+table{
+    margin: auto;
+    text-align: center  ;
+    padding: 10px;
+    background-color: #eef402;
+
+}
+td{
+    color: #03166C;
+    background-color: #fff;
+    padding: 15px;
+
+
+}
+th{
+    background-color: #03166C;
+    color: #eef402;
+    padding: 30px;
+
+}
+.tam{
+    border-top-left-radius: 10px;
+}
+.quad{
+    border-bottom-left-radius: 10px;
+}
+.gg{
+    border-top-right-radius: 10px;
+}
+.numb{
+    border-bottom-right-radius: 10px;
+}
+#table{
+    margin-left: 85%;
+/*     margin-top: -55px; */
+}
+.tamanhos{
+    margin-bottom: 2px;
+}
